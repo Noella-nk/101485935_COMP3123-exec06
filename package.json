@@ -1,0 +1,20 @@
+{
+  "name": "week06_mongoose",
+  "version": "1.0.0",
+  "description": "Set up connection of your DB Mongo Server to your web serveron Express",
+  "repository": {
+    "type": "git",
+    "url": "week06_mongoose"
+  },
+  "license": "ISC",
+  "author": "Noela Kabundi",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "5.1.0",
+    "mongoose": "8.19.1"
+  }
+}
